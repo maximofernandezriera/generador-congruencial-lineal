@@ -27,9 +27,3 @@ set.seed(42)  # Para reproducibilidad
 n <- 10000
 random_numbers <- lcg(n)
 ```
-
-
-# Generar 10000 números aleatorios usando LCG
-set.seed(42)  # Para reproducibilidad
-n <- 10000
-random_numbers <- lcg(n)
